@@ -1,6 +1,9 @@
 mailman-templates
 =================
 
-Simple, nice-looking  templates for Mailman. Customized for https://lists.wikimedia.org/ but easily reusable for other sites.
+Simple, nice-looking  templates for Mailman.
 
-See it in action at https://lists.wikimedia.org/mailman/listinfo/wikitech-announce
+Based on a template by [quimgil](https://github.com/quimgil) ( [original source](https://github.com/quimgil/mailman-templates) )
+
+
+See the original template in action at https://lists.wikimedia.org/mailman/listinfo/wikitech-announce
